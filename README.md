@@ -1,4 +1,4 @@
-# CF Python Achievement
+# Instacart Analysis
 A data analysis project using Python to analyze data from Instacart, an online grocery store.
 
 ## Overview
