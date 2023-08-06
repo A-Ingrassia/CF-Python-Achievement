@@ -2,7 +2,7 @@
 A data analysis project using Python to analyze data from Instacart, an online grocery store.
 
 ## Overview
-The goal of this project was to analyze sales patterns for Instacart, an online grocery store. By diving into their dataset, I aimed to uncover valuable insights and propose segmentation strategies based on specific criteria. This analysis provides useful information for making informed decisions and potential business improvements.
+This project is an analysis of sales patterns for Instacart, an online grocery store. By diving into their dataset, I aimed to uncover valuable insights and propose segmentation strategies based on specific criteria. This analysis provides useful information for making informed decisions and potential business improvements.
 
 ## Objectives
 Clean and merge four data sets associated with orders, products, departments, and customers.
