@@ -2,7 +2,7 @@
 A data analysis project using Python to analyze data from Instacart, an online grocery store.
 
 ## Case Study
-[Link](https://github.com/A-Ingrassia/Instacart-Python/blob/main/Instacart%20Case%20Study.pdf)
+[Link](https://github.com/A-Ingrassia/Instacart-Python/blob/main/Instacart%20Case%20Study.pdf) (PowerPoint)
 
 ## Overview
 This project is an analysis of sales patterns for Instacart, an online grocery store. By diving into their dataset, I aimed to uncover valuable insights and propose segmentation strategies based on specific criteria. This analysis provides useful information for making informed decisions and potential business improvements.
